@@ -5,3 +5,5 @@ LAMP es un sistema de infraestructura de internet que usa las siguientes herrami
 
 ## 2. SCRIPT LAMP
 Si quieres ver el script de instalación lamp pincha [aqui](ARCHIVOS/script-lamp.sh)
+
+## 3.  HTTPS con Let’s Encrypt y Certbot en AWS
